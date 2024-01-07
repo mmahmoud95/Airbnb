@@ -11,7 +11,6 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home({ data, cardsData }) {
-  console.log(data);
   return (
     <>
       <Head>
